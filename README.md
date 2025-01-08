@@ -1,6 +1,3 @@
-<p align="center">
-  <img src=https://github.com/DavidVF7/Conversor-de-Monedas/assets/103916971/645bfae6-38cf-4f90-add7-8f9b3929cb5a"
-</p>
 
 # Conversor de Monedas 
 
@@ -13,7 +10,7 @@ Este proyecto consiste en la creación de un conversor de moneda usando los cono
 - **Biblioteca Gson:** 
 - **Entorno de Desarrollo Integrado IntelliJ IDEA** 
 
-Funcionalidades 
+## Funcionalidades 
 
 ### Calculos
 
@@ -27,4 +24,5 @@ Clase responsable de realizar consultas a una API externa para obtener las tasas
 
 Clase responsable de manejar la interacción con el usuario a través de la consola, mostrando un menú de opciones y gestionando las conversiones de moneda.
 
+### Creado Por: Oscar Niño
 
