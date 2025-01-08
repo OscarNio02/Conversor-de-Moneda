@@ -6,8 +6,8 @@ Este proyecto consiste en la creación de un conversor de moneda usando los cono
 ## Tecnologías Utilizadas 
 
 - **Lenguaje de Programación Java** 
-- **API de Tasas de Cambio:**  
-- **Biblioteca Gson:** 
+- **API de Tasas de Cambio**  
+- **Biblioteca Gson** 
 - **Entorno de Desarrollo Integrado IntelliJ IDEA** 
 
 ## Funcionalidades 
